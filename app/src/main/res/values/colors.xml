@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="PrimaryColor">#388e3c</color>
+    <color name="PrimaryDarkColor">#388e3c</color>
+    <color name="PrimaryLightColor">#c8e6c9</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="divider_gray">#d9d9d9</color>
+    <color name="bg_gray">#f2f2f2</color>
+    <color name="bg_gray_dark">#c3c3c3</color>
+    <color name="bg_white">#ffffff</color>
+    <color name="bg_green">#4caf50</color>
+
+    <color name="text_color_white">#ffffff</color>
+    <color name="text_color_black">#212121</color>
+    <color name="text_color_yellow">#ffc107</color>
+    <color name="text_color_gray_dark">#727272</color>
+    <color name="text_color_gray">#b3b3b3</color>
+    <color name="text_color_gray_1">#b2b2b2</color>
+    <color name="text_color_green">#00c325</color>
+    <color name="text_color_green_light">#c8e6c9</color>
+    <color name="text_color_blue">#5d82d1</color>
+
+    <color name="dialog_black_bg">#282828</color>
+
+    <color name="border_text">#914601</color>
+    <!-- guide -->
+    <color name="guide_bg_color">#77000000</color>
+
+    <color name="income_icon_bg">#dadada</color>
+    <color name="red_bg">#ff2b01</color>
+    <color name="slide_text_color">#76000000</color>
+
+    <color name="red_light">#ffff4444</color>
+    <color name="blue_light">#ff33b5e5</color>
+</resources>
